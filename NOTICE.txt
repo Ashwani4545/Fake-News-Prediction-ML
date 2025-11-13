@@ -1,0 +1,4 @@
+IMPORTANT NOTES
+- I refactored the project structure and added modular R scripts for reproducibility.
+- The training pipeline uses text2vec TF-IDF; to make prediction robust, the vocabulary and TF-IDF object should be saved and reused during prediction. The current predict.R is a placeholder and must be updated after selecting a model and serialization of preprocessors.
+- Review scripts for column names: TEXT_COL and LABEL_COL in R/data_prep.R
