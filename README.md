@@ -102,3 +102,6 @@ If you'd like, I'll now:
 - (B) **Only produce polished README, LICENSE, and requirements.R** (I already created them) and give instructions for manual improvements.
 
 Please tell me which option you prefer. If you want (A), I will start refactoring the R files now (I will modify and save new versions in the repository).
+
+## Connect me
+Linkedln | Gmail
