@@ -1,4 +1,4 @@
-# Fake News Prediction (Refined)
+# Fake News Prediction 
 
 **Project:** Fake News Prediction (ML / R scripts)  
 **Refinement:** This repository contains R implementations for binary, multi-class, and three-class fake news classification experiments. This refined README documents the project structure, dependencies, usage, and suggestions for improvements and organization.
