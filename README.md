@@ -104,4 +104,7 @@ If you'd like, I'll now:
 Please tell me which option you prefer. If you want (A), I will start refactoring the R files now (I will modify and save new versions in the repository).
 
 ## Connect me
-Linkedln | Gmail
+LinkedIn: <https://www.linkedin.com/in/ashwanipandey1/>
+Email: <https://www/ashwanipandey4545@gmail.com>
+GitHub: <https://github.com/Ashwani4545>
+
