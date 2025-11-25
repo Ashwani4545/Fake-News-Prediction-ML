@@ -97,14 +97,6 @@ This repository will use the **MIT License**. See `LICENSE` file in the root.
 
 ---
 
-If you'd like, I'll now:
-- (A) **Refactor all R scripts** into a clean, modular structure, creating `scripts/` and `R/` folders and updating scripts to be run from a `run_all.R` master script — OR —
-- (B) **Only produce polished README, LICENSE, and requirements.R** (I already created them) and give instructions for manual improvements.
-
-Please tell me which option you prefer. If you want (A), I will start refactoring the R files now (I will modify and save new versions in the repository).
-
-
-
 ## 📫 Connect With Me
 
 <p align="left">
