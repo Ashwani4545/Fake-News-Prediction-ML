@@ -35,6 +35,8 @@ Fake_news_prediction_ML-main/
 
 > Note: I did not modify your original R scripts yet. This `README_REFINED.md` provides a full project description and next steps. If you'd like, I can also refactor the R code files (clean, modularize, add a `run_all.R`, etc.) — say the word and I'll proceed.
 
+---
+
 ## 🧾 Datasets
 The project includes CSV files for the three experimental setups:
 - `binary_training.csv`, `binary_testing.csv` — for binary classification (fake vs real).
