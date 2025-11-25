@@ -57,7 +57,7 @@ install.packages(c("tidyverse", "tm", "SnowballC", "caret", "e1071", "randomFore
 
 I saved this file as `requirements.R` at project root for one-line setup.
 
-
+---
 
 ## ▶️ How to run (suggested)
 1. Open R or RStudio and set the working directory to the project folder `Fake_news_prediction_ML-main`.
