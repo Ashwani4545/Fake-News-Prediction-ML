@@ -92,7 +92,7 @@ I can proceed to **fully refine every file** as you requested. That includes:
 - Creating a polished `README.md` (this file will become `README.md`) and `LICENSE` (MIT) — both created here.
 Tell me if you'd like me to proceed to refactor the R scripts now.
 
-
+---
 
 ## 📊 Recommendations & Improvements
 - **Consolidate repeated code**: Text preprocessing and feature extraction should be centralized.
