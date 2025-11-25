@@ -6,7 +6,7 @@ This project explores machine learning models to detect fake news using textual 
 
 ---
 
-## 📁 Repository Structure (aft
+## 📁 Repository Structure (af
 ```
 Fake_news_prediction_ML-main/
 ├─ Binary-MLP.R
