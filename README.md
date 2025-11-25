@@ -1,6 +1,6 @@
 # Fake News Prediction 
 
-**Projec
+**Proje
 ---
 
 ## 🚀 Project Overview
